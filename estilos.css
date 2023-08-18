@@ -10,3 +10,8 @@ body{
 h1{
     color: red;
 }
+
+h2{
+    text-align: center;
+    color: violet;
+}
